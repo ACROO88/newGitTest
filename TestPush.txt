@@ -1,1 +1,3 @@
 <testing adding a new file through command line>
+<adding a 2nd line>
+<adding a 3rd line>
